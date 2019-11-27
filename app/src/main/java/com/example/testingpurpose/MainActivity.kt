@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         Log.e("wow","this is for testing purpodfdfsse")
         Log.e("wow3","this is for testing purpose")
         Log.e("wow4","this is for testing purpose")
+        Log.e("wow5","this is for testing purpose")
     }
 }
