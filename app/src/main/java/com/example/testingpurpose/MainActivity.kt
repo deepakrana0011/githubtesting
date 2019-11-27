@@ -10,5 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.e("wow","this is for testing purpose");
+        Log.e("wow","this is for testing purpose");
+        Log.e("wow","this is for testing purpose");
+        Log.e("wow","this is for testing purpose");
+        Log.e("wow","this is for testing purpose");
+        Log.e("wow","this is for testing purpose");
     }
 }
